@@ -14,7 +14,8 @@ hexo g
 hexo d
 
 ####博客编写  
-1.hexo new 'postName' 然后去编写对应的postName.md文件  
-2.hero clean& hexo g & hexo s查看并测试  
-3.提交git工程到dev分支，然后再切换分支到master用hexo d 部署博客
+1.git clone工程,切换至dev分支
+2.hexo new 'postName' 然后去编写对应的postName.md文件  
+3.hero clean& hexo g & hexo s查看并测试  
+4.提交git工程到dev分支，在用hexo d 命令部署博客
 
