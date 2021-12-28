@@ -8,7 +8,13 @@
 5.访问http://localhost:4000  
 6.hexo d # deploy 部署
 
+####部署  
+hexo clean 
+hexo g 
+hexo d
+
 ####博客编写  
 1.hexo new 'postName' 然后去编写对应的postName.md文件  
 2.hero clean& hexo g & hexo s查看并测试  
 3.最后提交本git工程然后hero d更新博客
+
