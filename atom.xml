@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>punk2074&#39;s blog</title>
+  
+  
+  <link href="https://punk2074.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://punk2074.github.io/"/>
+  <updated>2021-12-29T13:00:42.511Z</updated>
+  <id>https://punk2074.github.io/</id>
+  
+  <author>
+    <name>punk2074</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2021年终总结</title>
+    <link href="https://punk2074.github.io/2021/12/29/2021-annual-summary/"/>
+    <id>https://punk2074.github.io/2021/12/29/2021-annual-summary/</id>
+    <published>2021-12-29T03:43:55.000Z</published>
+    <updated>2021-12-29T13:00:42.511Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/2021/12/29/2021-annual-summary/ne.jpeg" alt="尼尔纪元"></p><pre><code>2021年年终总结</code></pre><a id="more"></a><h3 id="个人知识概述"><a href="#个人知识概述" class="headerlink" title="个人知识概述"></a>个人知识概述</h3><p>今年在技术积累上偏少，太多的时间点都花在了投资上，而碎片的时间都拿来看娱乐或者影视了。</p><ul><li><h4 id="书籍-微信读书，囊括情绪、游戏、金融、备孕"><a href="#书籍-微信读书，囊括情绪、游戏、金融、备孕" class="headerlink" title="书籍(微信读书，囊括情绪、游戏、金融、备孕)"></a>书籍(微信读书，囊括情绪、游戏、金融、备孕)</h4><ul><li>非暴力性沟通</li><li>遥远的救世主</li><li>岩田先生</li><li>沸腾新十年</li><li>简明世界史</li><li>腾讯游戏开发精粹</li><li>穷查理宝典</li><li>趋势交易</li><li>投资最重要的事</li><li>货币金融学</li><li>原则</li><li>阶层跃迁</li><li>轻松备孕、助孕</li><li>妇产科医生说备孕</li></ul></li><li><h4 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h4><ul><li>香帅的北大金融课程(得到app)</li><li>UE4官网视频教学(240课时)</li><li>UE4 Moba分布式网络游戏教程(AbountCG)</li><li>UE4 FPS in C++ (UDemy)</li></ul></li><li><h4 id="音乐-节选网易云、qq音乐"><a href="#音乐-节选网易云、qq音乐" class="headerlink" title="音乐(节选网易云、qq音乐)"></a>音乐(节选网易云、qq音乐)</h4><ul><li>中国新说唱(攀登、飘向远方、差不多姑娘)</li><li>艺人：邓紫棋、李荣浩、毛不易</li></ul></li><li><h4 id="影视"><a href="#影视" class="headerlink" title="影视"></a>影视</h4><ul><li>鸡毛飞上天</li><li>你是我的荣耀</li><li>觉醒年代</li><li>漫威复联四、蜘蛛侠；DC正联联盟、神奇女侠</li><li>哪吒、唐人街探案</li><li>抖音影评：梅林传奇、黄石、梅普露(日本游戏动画)</li><li>漫画：海贼王、一拳超人</li></ul></li><li><h4 id="游戏"><a href="#游戏" class="headerlink" title="游戏"></a>游戏</h4><ul><li>仙剑奇侠传七</li><li>古剑奇谭三</li><li>轩辕剑三</li><li>DOTA2(TI10)</li><li>CS GO</li><li>手游：王者荣耀、和平精英、英雄联盟</li></ul></li><li><h4 id="电子产品"><a href="#电子产品" class="headerlink" title="电子产品"></a>电子产品</h4><ul><li>小米多看阅读pro</li><li>iphone 13</li><li>razer 头戴式蓝牙耳机</li></ul></li><li><h4 id="旅行"><a href="#旅行" class="headerlink" title="旅行"></a>旅行</h4><ul><li>武汉出差</li><li>南宁三街两巷</li></ul></li></ul><h3 id="工作总结"><a href="#工作总结" class="headerlink" title="工作总结"></a>工作总结</h3><p>今年是来青藤云安全的第一年，算是跨行业的一个开端，工作上其实没有什么突破，更多的算是基础入门，也没有特别优秀的地方</p><ul><li><h4 id="Zion团队"><a href="#Zion团队" class="headerlink" title="Zion团队"></a>Zion团队</h4><ul><li>工作内容：window network管理；虚机cpu、内存、双虚机切换管理；与前端交服务编写；</li><li>编程语言：PowerShell、C++、TypeScript、NodeJs</li><li>技能：electron、grpc、win32 api、protobuff、反编译vmconnect代码并找到增强模式失败原因</li></ul></li><li><h4 id="WatchTower团队"><a href="#WatchTower团队" class="headerlink" title="WatchTower团队"></a>WatchTower团队</h4><ul><li>工作内容：流量获取、重放；数据埋点、账号溯源、web后台前端</li><li>编程语言：python、lua、TpyeScript</li><li>技能：openresty、chrome extensions、selenium、chrome dev tools、qt-ui-design</li></ul></li><li><h4 id="个人业绩"><a href="#个人业绩" class="headerlink" title="个人业绩"></a>个人业绩</h4><ul><li>六边形3D地形及自动寻路</li><li>UE4、cocos creator入门</li><li>OpenGL梳理</li></ul></li></ul><h3 id="投资支出"><a href="#投资支出" class="headerlink" title="投资支出"></a>投资支出</h3><p>今年在币圈投资的金额占比过大，已经严重影响到生活开支；对于生活在情感上缺乏关爱，争吵不断，家庭出现了危机；股票上今年全部靠股转债打新。</p><ul><li>薪酬 30~50w(薪资涨幅10%)</li><li>币圈 50~100w(回报率200%[未交易])</li><li>私募 10W以内(回报率1000%[未交易])</li><li>股市 1w以内(回报率90%)</li><li>黄金 2W(亏损10%)</li><li>旅行电子产品周边 2w以内</li></ul><h3 id="生活情感"><a href="#生活情感" class="headerlink" title="生活情感"></a>生活情感</h3><p>今年过的算是比较糟糕的。疫情打乱了一些计划，比如结婚一周年、比如想去哈尔滨、成都；资金的管理混乱，资金短缺造成了生活上的烦恼，情绪上的失控。比如去青海湖；对于情感方面，因为个人的倔强、对生活的不认真、言语上的不沟通。导致家庭间产生了巨大隔阂与矛盾。事情太多也关乎隐私就不细谈，希望能够加以改正，直面问题。</p><ul><li><h4 id="美食"><a href="#美食" class="headerlink" title="美食"></a>美食</h4><ul><li>很久很久以前(烤羊肉串)</li><li>潮汕牛肉火锅</li><li>山姆榴莲千层、青椰、牛羊排等</li><li>里建卷筒粉  </li></ul></li></ul><p><u>回望2021，国外疫情肆虐，国内安全稳步。疫情改变了许多，消极的、积极的、机遇、环境、态度、内卷等，这些词语构成了我的2021。有过遗憾、徘徊、迷茫。但也确定、肯定及坚信，不论怎么样的时代怎么样的环境，不忘初心，沉着，听取意见。2021，是我莽撞的一年，也是我最应该牢记、反思、端正态度的一年。展望2022，我需要带上我2021所有的反思、改正、遗憾以及敬畏。去端正态度，好好的规划好2022人生。让生活回归平静平凡，健康、积极、乐观，拥有一个令人向往及留恋的2022。要给自己2021年的评价就是：<strong><em>迷途知返，心怀感恩</em></strong></u></p><p><img src="/2021/12/29/2021-annual-summary/ff.jpeg" alt="最终幻想"></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2021/12/29/2021-annual-summary/ne.jpeg&quot; alt=&quot;尼尔纪元&quot;&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;2021年年终总结&lt;/code&gt;&lt;/pre&gt;</summary>
+    
+    
+    
+    
+    <category term="note" scheme="https://punk2074.github.io/tags/note/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>inside_creator_3_astart</title>
+    <link href="https://punk2074.github.io/2021/02/28/inside-creator-3-astart/"/>
+    <id>https://punk2074.github.io/2021/02/28/inside-creator-3-astart/</id>
+    <published>2021-02-28T02:07:47.000Z</published>
+    <updated>2021-12-29T07:29:15.118Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/2021/02/28/inside-creator-3-astart/1.jpg" alt="cover"></p><pre><code>cocos creator3.x 之六边形A* 算法</code></pre><a id="more"></a><h4 id="导航"><a href="#导航" class="headerlink" title="导航"></a>导航</h4><p>地图已经制作完成的话，就需要导航，让角色走到指定位置，并且自动避开障碍物.从而产生了寻路算法，市面上很多算法,A<em>、D</em>、导航网格等，但万变不离其宗，都是要找出最近的路。我只拿最简单的A*算法来做</p><h4 id="A-算法"><a href="#A-算法" class="headerlink" title="A*算法"></a>A*算法</h4><ol><li>将起始节点加入open列表中</li><li>判断open节点，空则搜索失败，如果open列表存在目标节点，则搜索成功</li><li>根据F = G + H从open列表中找出F最小的节点作为当前节点，并将其加入close列表中</li><li>计算当前节点相邻的六个节点(排除障碍物)，组成一组子节点，对每个子节点做判断<ul><li>如果该节点在close列表中，丢弃。</li><li>如果该节点在open列表中，检查当前节点的F值是否更小，如果更小则更新F值，并将父节点设置为当前节点</li><li>如果该节点不在open列表中，则将其假如open列表，并计算F值，设置其父节点为当前节点</li></ul></li><li>重复2步骤  </li></ol><h4 id="效果展示"><a href="#效果展示" class="headerlink" title="效果展示"></a>效果展示</h4><p><img src="/2021/02/28/inside-creator-3-astart/2.jpg" alt="效果图"> </p><h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h4><ul><li><a href="https://zhuanlan.zhihu.com/p/112849816">六边形A*算法</a></li><li><a href="https://www.redblobgames.com/pathfinding/a-star/introduction.html">A*算法简述(英文)</a></li><li><a href="https://www.cnblogs.com/iwiniwin/p/10793654.html">A*算法简述(中文)</a>  </li><li><a href="https://github.com/tim-punk/inside_creator/tree/master/3_find_astar">github示例</a></li></ul>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2021/02/28/inside-creator-3-astart/1.jpg&quot; alt=&quot;cover&quot;&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;cocos creator3.x 之六边形A* 算法&lt;/code&gt;&lt;/pre&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>inside_creator_2_hexagon_terrain</title>
+    <link href="https://punk2074.github.io/2021/02/20/inside_creator_2_hexagon_terrain/"/>
+    <id>https://punk2074.github.io/2021/02/20/inside_creator_2_hexagon_terrain/</id>
+    <published>2021-02-20T03:28:33.000Z</published>
+    <updated>2021-12-29T07:29:15.119Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/2021/02/20/inside_creator_2_hexagon_terrain/3.jpg" alt="cover"></p><pre><code>cocos creator3.x 之六边形地形</code></pre><a id="more"></a><h4 id="地形网格"><a href="#地形网格" class="headerlink" title="地形网格"></a>地形网格</h4><p>游戏，少不了地图，而地图就需要有坐标，有正方形、六边形等，这里采用六边形是因为任何对于计算六边形到六边形的距离都是一致的，而正方形一边少，二会出现次相邻情况.如下图，但是其实也各有优劣，视项目情况而定吧。<br><img src="/2021/02/20/inside_creator_2_hexagon_terrain/1.jpg" alt="地形距离比较">  </p><h4 id="地形制作"><a href="#地形制作" class="headerlink" title="地形制作"></a>地形制作</h4><ul><li>制作六边形地形，为了便于调试，制作两个quad地形</li><li>地图设定及相关代码处理</li><li>使用射线检测来添加触摸地形快操作  </li></ul><h4 id="效果展示"><a href="#效果展示" class="headerlink" title="效果展示"></a>效果展示</h4><p><img src="/2021/02/20/inside_creator_2_hexagon_terrain/2.jpg" alt="效果图"> </p><h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h4><ul><li><a href="https://docs.cocos.com/creator/3.0/manual/zh/editor/terrain/">地形Terrain</a></li><li><a href="https://indienova.com/indie-game-development/hex-grids-reference/">六边形设计(中文)</a></li><li><a href="https://www.redblobgames.com/grids/hexagons/">六边形(原版英文)</a>  </li><li><a href="https://docs.cocos.com/creator/3.0/manual/zh/physics/physics-raycast.html?h=screenpointtoray">射线检测</a>  </li><li><a href="https://github.com/tim-punk/inside_creator/tree/master/2_hexagon_terrain">github示例</a></li></ul>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2021/02/20/inside_creator_2_hexagon_terrain/3.jpg&quot; alt=&quot;cover&quot;&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;cocos creator3.x 之六边形地形&lt;/code&gt;&lt;/pre&gt;</summary>
+    
+    
+    
+    
+    <category term="Creator" scheme="https://punk2074.github.io/tags/Creator/"/>
+    
+    <category term="Game" scheme="https://punk2074.github.io/tags/Game/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>inside_creator_1_plugin</title>
+    <link href="https://punk2074.github.io/2021/02/15/inside_creator_1_plugin/"/>
+    <id>https://punk2074.github.io/2021/02/15/inside_creator_1_plugin/</id>
+    <published>2021-02-15T04:19:41.000Z</published>
+    <updated>2021-12-29T07:29:15.119Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>cocos creator3.x 之插件编写</code></pre><a id="more"></a><h4 id="关于插件"><a href="#关于插件" class="headerlink" title="关于插件"></a>关于插件</h4><p>一般对于游戏开发者，大部分都会与excel打交道，策划给角色或者怪物配置的血量、等级、技能等。关卡信息、奖励道具等。还有美术给的动作名称、技能帧等，包括一些活动配置等游戏中用得到并且在上线前频繁修改的数据，对于这些数据而言，有一个规范、容易编辑、更新的工具对整个项目来说是事半功倍的效果。特此，插件就派上场了。</p><h4 id="插件制作"><a href="#插件制作" class="headerlink" title="插件制作"></a>插件制作</h4><p>插件的制作参考以下链接  </p><ul><li><a href="https://mp.weixin.qq.com/s?__biz=MjM5ODAxNTM2NA==&mid=2659664592&idx=1&sn=9793c8f33cdf2c73b4cbaa9af9944d45&chksm=bda2da3b8ad5532d18296c170e3953f66c0e85ee715f3d75f2e1cafe2219a033cd44c9257aac&scene=178&cur_album_id=1761139408994385920#rd">深入 Cocos Creator 3.0 的插件扩展系统</a>  </li><li><a href="https://docs.cocos.com/creator/3.0/manual/zh/editor/extension/readme.html">扩展编辑器</a>  </li></ul><h4 id="插件使用"><a href="#插件使用" class="headerlink" title="插件使用"></a>插件使用</h4><ul><li>目录结构<pre><code>rootdir|--client  |--extensions  |--assets    |--scripts      |--db           #最终生成.ts脚本配置的文件夹|--design  |--excel    |--role.xls       #配表文件    |--monster.xls    #配表文件  |--tool             #导表等工具</code></pre></li><li>策划安装规范定义好excel表</li><li>通过Creator中Developer-&gt;导出即可<br>  1.插件会调用<code>rootdir\design\tool\export2ts.bat</code>(mac下sh)执行python脚本<br>  2.python会将excel文件夹下xls文件导出至<code>\rootdir\client\assets\scripts\db\</code>文件夹中</li><li>python需要安装相关node插件</li><li>相关说明放在<code>tool/readme.md</code>文件内</li><li><a href="https://github.com/tim-punk/inside_creator/tree/master/1_plugin">github示例</a></li></ul>]]></content>
+    
+    
+    <summary type="html">&lt;pre&gt;&lt;code&gt;cocos creator3.x 之插件编写&lt;/code&gt;&lt;/pre&gt;</summary>
+    
+    
+    
+    
+    <category term="Creator" scheme="https://punk2074.github.io/tags/Creator/"/>
+    
+    <category term="Game" scheme="https://punk2074.github.io/tags/Game/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://punk2074.github.io/2021/01/01/hello-world/"/>
+    <id>https://punk2074.github.io/2021/01/01/hello-world/</id>
+    <published>2020-12-31T16:00:00.000Z</published>
+    <updated>2021-12-29T07:29:15.118Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="http://zespia.tw/hexo">Hexo</a>! This is your very first post. Check <a href="http://zespia.tw/hexo/docs">documentation</a> to learn how to use.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;http://zespia.tw/hexo&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;http://zespia.tw/hexo/docs&quot;&gt;documentati</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
