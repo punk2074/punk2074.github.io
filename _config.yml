@@ -111,3 +111,4 @@ deploy:
   type: git
   repository: https://github.com/punk2074/punk2074.github.io.git
   branch: master
+  user: punk2074
