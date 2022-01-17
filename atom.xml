@@ -6,7 +6,7 @@
   <link href="https://punk2074.github.io/atom.xml" rel="self"/>
   
   <link href="https://punk2074.github.io/"/>
-  <updated>2022-01-03T02:14:44.917Z</updated>
+  <updated>2022-01-17T12:50:56.381Z</updated>
   <id>https://punk2074.github.io/</id>
   
   <author>
@@ -17,13 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Learnning_ue</title>
+    <link href="https://punk2074.github.io/2022/01/15/Learnning-ue/"/>
+    <id>https://punk2074.github.io/2022/01/15/Learnning-ue/</id>
+    <published>2022-01-15T13:05:14.000Z</published>
+    <updated>2022-01-17T12:50:56.381Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>learnning ue </code></pre><a id="more"></a><h4 id="UE"><a href="#UE" class="headerlink" title="UE"></a>UE</h4><p>重拾UE学习。视频就不看了，以前记得的内容也都忘记了，现在就重新学习吧，也是从一个简单的游戏开始，</p><h3 id="puerts"><a href="#puerts" class="headerlink" title="puerts"></a>puerts</h3><p>最近用的是ts(js),索性这回写游戏就用ts吧。于是乎就发现了腾讯大佬开源的puerts。这不，第一个游戏就出来了。回头再补充相关的说明文档吧，群也加了，就是要好好学学。</p><h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h4><ul><li><a href="https://github.com/Tencent/puerts">puerts</a>  </li><li><a href="https://github.com/chexiongsheng/puerts_fps_demo">第一个UE案例(FPS)</a>  </li></ul>]]></content>
+    
+    
+    <summary type="html">&lt;pre&gt;&lt;code&gt;learnning ue &lt;/code&gt;&lt;/pre&gt;</summary>
+    
+    
+    
+    
+    <category term="UE" scheme="https://punk2074.github.io/tags/UE/"/>
+    
+    <category term="Game" scheme="https://punk2074.github.io/tags/Game/"/>
+    
+  </entry>
+  
+  <entry>
     <title>2022 plan</title>
     <link href="https://punk2074.github.io/2022/01/03/2022-plan/"/>
     <id>https://punk2074.github.io/2022/01/03/2022-plan/</id>
     <published>2022-01-03T01:40:07.000Z</published>
-    <updated>2022-01-03T02:14:44.917Z</updated>
+    <updated>2022-01-04T06:47:57.061Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/2022/01/03/2022-plan/sed.jpeg" alt="塞尔达传说-荒野之息"></p><pre><code>2022年展望</code></pre><a id="more"></a><h3 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h3><p>新的一年新的征程，但愿今年疫情能有有所控制。2022，我畅想了好多、好久，也不知道该把哪个事情安排到计划里面，思考的越久，越觉得自己需要做的事情太多了</p><ul><li><h4 id="关于读书"><a href="#关于读书" class="headerlink" title="关于读书"></a>关于读书</h4><ul><li>关于读书，有太多的书需要我去读了，技术类、管理类、生活类、家庭类、包括育儿类。不过还是继续立flag吧，坚持每月读一本好书，小米阅读器争取每天随身携带。</li><li>每天的极客时间是一个好的习惯，但是尽量减少盯手机的时间。</li><li>平常上班多泡在技术论坛上，少刷一些知乎、微博、朋友圈。</li></ul></li><li><h4 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h4><ul><li>视频目前有一个想法，打算自己拍摄视频记录一些值得记录的时刻。所以相应的需要去b站学习一些摄影和剪辑技巧</li><li>主要还是去b站学习UE的视频，加深自己对行业的嗅觉。对于技术类的影视可以1.25倍数快速看。</li></ul></li><li><h4 id="音乐及影视"><a href="#音乐及影视" class="headerlink" title="音乐及影视"></a>音乐及影视</h4><ul><li>这方面其实没有什么计划安排，只需要涉猎一点点就好。</li></ul></li><li><h4 id="游戏"><a href="#游戏" class="headerlink" title="游戏"></a>游戏</h4><ul><li>说到游戏，去年开始其实在游戏上也已经减少了游玩时间，不过一些大作还是可以稍微去玩，手机的游戏其实没必要去玩太多，大多数还达不到3A级别，就算国民游戏&lt;王者荣耀&gt;，也是没必要玩了。已经过了那个年龄了。</li></ul></li><li><h4 id="电子产品"><a href="#电子产品" class="headerlink" title="电子产品"></a>电子产品</h4><ul><li>今年还是会有1~2W的支出在电子产品上，更新显卡、手机、大疆poket2、戴森净化机等吧。</li></ul></li><li><h4 id="旅行"><a href="#旅行" class="headerlink" title="旅行"></a>旅行</h4><ul><li>暂未定义，可能去趟环球影城、哈尔滨、广州</li></ul></li></ul><h3 id="工作计划"><a href="#工作计划" class="headerlink" title="工作计划"></a>工作计划</h3><p>没什么意外的话qt将会上市，wt项目也会面向市场，所以今年工作计划更多的是打磨wt项目至成功上线，而个人学习上应该是全面投入ue了。一切算是计划之内的事情。</p><h3 id="投资支出"><a href="#投资支出" class="headerlink" title="投资支出"></a>投资支出</h3><p>今年不打算投资支出了，虽然看多中国，但是从市场上的经济评估来说，可能金融危机会开始显现。对于如果度过金融危机，那就是能囤多少粮食就囤吧。目前就是等待币圈资金回笼，然后将房贷全部还上，手里囤rmb，等待一个时机再做投资，大概率上今年没有一个好的投资信号。</p><h3 id="生活情感"><a href="#生活情感" class="headerlink" title="生活情感"></a>生活情感</h3><p>准备要baby。 </p><p><u>2022，注定是变革一年，市场风云变幻、疫情肆虐、qt等待上市，今年将是一个充满着挑战、机遇及蜕变的一年，等待时机吧！现在要做的就是多充实自己，多让自己更快拥抱变化。<strong><em>2022，我们一起改变</em></strong></u></p><p><img src="/2022/01/03/2022-plan/xyj.jpeg" alt="轩辕剑"></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/2022/01/03/2022-plan/sed.jpeg" alt="塞尔达传说-荒野之息"></p><pre><code>2022年展望</code></pre><a id="more"></a><h3 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h3><p>新的一年新的征程，但愿今年疫情能有有所控制。2022，我畅想了好多、好久，也不知道该把哪个事情安排到计划里面，思考的越久，越觉得自己需要做的事情太多了</p><ul><li><h4 id="读书"><a href="#读书" class="headerlink" title="读书"></a>读书</h4><ul><li>关于读书，有太多的书需要我去读了，技术类、管理类、生活类、家庭类、包括育儿类。不过还是继续立flag吧，小米阅读器争取每天随身携带。</li><li>每天的极客时间是一个好的习惯，但是尽量减少盯手机的时间。</li><li>平常上班多泡在技术论坛上，少刷一些知乎、微博、朋友圈。</li></ul></li><li><h4 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h4><ul><li>视频目前有一个想法，打算自己拍摄视频记录一些值得记录的时刻。所以相应的需要去b站学习一些摄影和剪辑技巧</li><li>主要还是去b站学习UE的视频，加深自己对行业的嗅觉。对于技术类的影视可以1.25倍数快速看。</li></ul></li><li><h4 id="音乐及影视"><a href="#音乐及影视" class="headerlink" title="音乐及影视"></a>音乐及影视</h4><ul><li>这方面其实没有什么计划安排，只需要涉猎一点点就好。</li></ul></li><li><h4 id="游戏"><a href="#游戏" class="headerlink" title="游戏"></a>游戏</h4><ul><li>说到游戏，去年开始其实在游戏上也已经减少了游玩时间，不过一些大作还是可以稍微去玩，手机的游戏其实没必要去玩太多，大多数还达不到3A级别，就算国民游戏&lt;王者荣耀&gt;，也是没必要玩了。已经过了那个年龄了。</li></ul></li><li><h4 id="电子产品"><a href="#电子产品" class="headerlink" title="电子产品"></a>电子产品</h4><ul><li>今年还是会有1~2W的支出在电子产品上，更新显卡、手机、大疆poket2、戴森净化机等吧。</li></ul></li><li><h4 id="旅行"><a href="#旅行" class="headerlink" title="旅行"></a>旅行</h4><ul><li>暂未定义，可能去趟环球影城、哈尔滨、广州、上海迪士尼</li></ul></li><li><h4 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h4><ul><li>坚持每天刷一题leetcode</li><li>坚持每周更新博客、github</li><li>坚持每月读一本书</li><li>每个季度能够产出优质的UE文章(前期可以以学习为主)</li></ul></li></ul><h3 id="工作计划"><a href="#工作计划" class="headerlink" title="工作计划"></a>工作计划</h3><p>没什么意外的话qt将会上市，wt项目也会面向市场，所以今年工作计划更多的是打磨wt项目至成功上线，而个人学习上应该是全面投入ue了。一切算是计划之内的事情。</p><h3 id="投资支出"><a href="#投资支出" class="headerlink" title="投资支出"></a>投资支出</h3><p>今年不打算投资支出了，虽然看多中国，但是从市场上的经济评估来说，可能金融危机会开始显现。对于如果度过金融危机，那就是能囤多少粮食就囤吧。目前就是等待币圈资金回笼，然后将房贷全部还上，手里囤rmb，等待一个时机再做投资，大概率上今年没有一个好的投资信号。</p><h3 id="生活情感"><a href="#生活情感" class="headerlink" title="生活情感"></a>生活情感</h3><p>准备要baby。 </p><p><u>2022，注定是变革一年，市场风云变幻、疫情肆虐、qt等待上市，今年将是一个充满着挑战、机遇及蜕变的一年，等待时机吧！现在要做的就是多充实自己，多让自己更快拥抱变化。<strong><em>2022，我们一起改变</em></strong></u></p><p><img src="/2022/01/03/2022-plan/xyj.jpeg" alt="轩辕剑"></p>]]></content>
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;/2022/01/03/2022-plan/sed.jpeg&quot; alt=&quot;塞尔达传说-荒野之息&quot;&gt;&lt;/p&gt;
@@ -90,9 +111,9 @@
     
     
     
-    <category term="Creator" scheme="https://punk2074.github.io/tags/Creator/"/>
-    
     <category term="Game" scheme="https://punk2074.github.io/tags/Game/"/>
+    
+    <category term="Creator" scheme="https://punk2074.github.io/tags/Creator/"/>
     
   </entry>
   
@@ -111,9 +132,9 @@
     
     
     
-    <category term="Creator" scheme="https://punk2074.github.io/tags/Creator/"/>
-    
     <category term="Game" scheme="https://punk2074.github.io/tags/Game/"/>
+    
+    <category term="Creator" scheme="https://punk2074.github.io/tags/Creator/"/>
     
   </entry>
   
