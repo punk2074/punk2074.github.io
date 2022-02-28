@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>learn_ue5</title>
+      <link href="2022/02/28/learn-ue5/"/>
+      <url>2022/02/28/learn-ue5/</url>
+      
+        <content type="html"><![CDATA[<pre><code>learnning ue5 ![艾尔登法环](./aedfh.jpg)</code></pre><a id="more"></a><h4 id="碎碎"><a href="#碎碎" class="headerlink" title="碎碎"></a>碎碎</h4><p>这个月刚好是新年伊始，然后UE5_Preview版本也出了，还出了个demo，于是就打算搞起来了，说实话，知乎上讲UE5的文章越来越多了，但是还是喜欢大钊的博客。所以文末给了insideUE5的链接，能够受益匪浅的。</p><h3 id="初学者包"><a href="#初学者包" class="headerlink" title="初学者包"></a>初学者包</h3><p>整个包体其实不是很大，比原先预览版的大地图小很多。不过该有的内容都有</p><ul><li><a href="https://www.unrealengine.com/zh-CN/tech-blog/download-an-unreal-engine-5-early-access-game-starter-kit-featuring-a-small-robot">初学者包</a>  </li></ul><p><img src="/2022/02/28/learn-ue5/zhilang.jpg" alt="只狼"></p><h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h4><ul><li><a href="https://zhuanlan.zhihu.com/p/464013151">虚幻5渲染编程</a>  </li><li><a href="https://www.zhihu.com/column/insideue4">InsideUE5)</a>  </li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> UE </tag>
+            
+            <tag> Game </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Learnning_ue</title>
       <link href="2022/01/15/Learnning-ue/"/>
       <url>2022/01/15/Learnning-ue/</url>
