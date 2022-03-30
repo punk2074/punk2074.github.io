@@ -6,7 +6,7 @@
   <link href="https://punk2074.github.io/atom.xml" rel="self"/>
   
   <link href="https://punk2074.github.io/"/>
-  <updated>2022-03-30T08:24:21.299Z</updated>
+  <updated>2022-03-30T09:47:28.230Z</updated>
   <id>https://punk2074.github.io/</id>
   
   <author>
@@ -21,13 +21,13 @@
     <link href="https://punk2074.github.io/2022/03/22/2022-03-22/"/>
     <id>https://punk2074.github.io/2022/03/22/2022-03-22/</id>
     <published>2022-03-22T10:03:50.000Z</published>
-    <updated>2022-03-30T08:24:21.299Z</updated>
+    <updated>2022-03-30T09:47:28.230Z</updated>
     
-    <content type="html"><![CDATA[<pre><code>三月学习汇总 ![王者荣耀](./wzry.jpeg)</code></pre><a id="more"></a><h4 id="阅读"><a href="#阅读" class="headerlink" title="阅读"></a>阅读</h4><ul><li><a href="https://zhuanlan.zhihu.com/p/477799165">渲染LightMap</a></li></ul><h4 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h4><ul><li><p><a href="https://www.bilibili.com/video/BV1D34y1b7uh/">Stack-O-Bot项目探索UE5功能</a></p></li><li><p><a href="https://www.youtube.com/watch?v=9fqMCSaQ1Nk">YOUTUBE-overview-Stack-O-Bot</a></p></li><li><p><a href="https://www.bilibili.com/video/BV1P3411p7K1?spm_id_from=0.0.header_right.fav_list.click">Slay工作流程教程</a></p></li></ul><p><img src="/2022/03/22/2022-03-22/mrzh.jpeg" alt="明日之后"></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/2022/03/22/2022-03-22/wzry.jpeg" alt="王者荣耀"></p><pre><code>三月学习汇总 </code></pre><a id="more"></a><h4 id="阅读"><a href="#阅读" class="headerlink" title="阅读"></a>阅读</h4><ul><li><a href="https://zhuanlan.zhihu.com/p/477799165">渲染LightMap</a></li></ul><h4 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h4><ul><li><p><a href="https://www.bilibili.com/video/BV1D34y1b7uh/">Stack-O-Bot项目探索UE5功能</a></p></li><li><p><a href="https://www.youtube.com/watch?v=9fqMCSaQ1Nk">YOUTUBE-overview-Stack-O-Bot</a></p></li><li><p><a href="https://www.bilibili.com/video/BV1P3411p7K1?spm_id_from=0.0.header_right.fav_list.click">Slay工作流程教程</a></p></li></ul><p><img src="/2022/03/22/2022-03-22/mrzh.jpeg" alt="明日之后"></p>]]></content>
     
     
-    <summary type="html">&lt;pre&gt;&lt;code&gt;三月学习汇总 
-![王者荣耀](./wzry.jpeg)&lt;/code&gt;&lt;/pre&gt;</summary>
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2022/03/22/2022-03-22/wzry.jpeg&quot; alt=&quot;王者荣耀&quot;&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;三月学习汇总 &lt;/code&gt;&lt;/pre&gt;</summary>
     
     
     
@@ -43,13 +43,13 @@
     <link href="https://punk2074.github.io/2022/02/28/learn-ue5/"/>
     <id>https://punk2074.github.io/2022/02/28/learn-ue5/</id>
     <published>2022-02-28T12:33:25.000Z</published>
-    <updated>2022-02-28T12:47:58.926Z</updated>
+    <updated>2022-03-30T09:47:45.742Z</updated>
     
-    <content type="html"><![CDATA[<pre><code>learnning ue5 ![艾尔登法环](./aedfh.jpg)</code></pre><a id="more"></a><h4 id="碎碎"><a href="#碎碎" class="headerlink" title="碎碎"></a>碎碎</h4><p>这个月刚好是新年伊始，然后UE5_Preview版本也出了，还出了个demo，于是就打算搞起来了，说实话，知乎上讲UE5的文章越来越多了，但是还是喜欢大钊的博客。所以文末给了insideUE5的链接，能够受益匪浅的。</p><h3 id="初学者包"><a href="#初学者包" class="headerlink" title="初学者包"></a>初学者包</h3><p>整个包体其实不是很大，比原先预览版的大地图小很多。不过该有的内容都有</p><ul><li><a href="https://www.unrealengine.com/zh-CN/tech-blog/download-an-unreal-engine-5-early-access-game-starter-kit-featuring-a-small-robot">初学者包</a>  </li></ul><p><img src="/2022/02/28/learn-ue5/zhilang.jpg" alt="只狼"></p><h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h4><ul><li><a href="https://zhuanlan.zhihu.com/p/464013151">虚幻5渲染编程</a>  </li><li><a href="https://www.zhihu.com/column/insideue4">InsideUE5)</a>  </li></ul>]]></content>
+    <content type="html"><![CDATA[<p><img src="/2022/02/28/learn-ue5/aedfh.jpg" alt="艾尔登法环"></p><pre><code>learnning ue5 </code></pre><a id="more"></a><h4 id="碎碎"><a href="#碎碎" class="headerlink" title="碎碎"></a>碎碎</h4><p>这个月刚好是新年伊始，然后UE5_Preview版本也出了，还出了个demo，于是就打算搞起来了，说实话，知乎上讲UE5的文章越来越多了，但是还是喜欢大钊的博客。所以文末给了insideUE5的链接，能够受益匪浅的。</p><h3 id="初学者包"><a href="#初学者包" class="headerlink" title="初学者包"></a>初学者包</h3><p>整个包体其实不是很大，比原先预览版的大地图小很多。不过该有的内容都有</p><ul><li><a href="https://www.unrealengine.com/zh-CN/tech-blog/download-an-unreal-engine-5-early-access-game-starter-kit-featuring-a-small-robot">初学者包</a>  </li></ul><p><img src="/2022/02/28/learn-ue5/zhilang.jpg" alt="只狼"></p><h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h4><ul><li><a href="https://zhuanlan.zhihu.com/p/464013151">虚幻5渲染编程</a>  </li><li><a href="https://www.zhihu.com/column/insideue4">InsideUE5)</a>  </li></ul>]]></content>
     
     
-    <summary type="html">&lt;pre&gt;&lt;code&gt;learnning ue5 
-![艾尔登法环](./aedfh.jpg)&lt;/code&gt;&lt;/pre&gt;</summary>
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2022/02/28/learn-ue5/aedfh.jpg&quot; alt=&quot;艾尔登法环&quot;&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;learnning ue5 &lt;/code&gt;&lt;/pre&gt;</summary>
     
     
     
