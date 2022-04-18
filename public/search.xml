@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>learn_ue_march</title>
-      <link href="2022/03/22/2022-03-22/"/>
-      <url>2022/03/22/2022-03-22/</url>
+      <title>learn_ue_april</title>
+      <link href="2022/04/17/2022-04-17/"/>
+      <url>2022/04/17/2022-04-17/</url>
       
-        <content type="html"><![CDATA[<pre><code>三月学习汇总 ![王者荣耀](./wzry.jpeg)</code></pre><a id="more"></a><h4 id="阅读"><a href="#阅读" class="headerlink" title="阅读"></a>阅读</h4><ul><li><a href="https://zhuanlan.zhihu.com/p/477799165">渲染LightMap</a></li></ul><h4 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h4><ul><li><p><a href="https://www.bilibili.com/video/BV1D34y1b7uh/">Stack-O-Bot项目探索UE5功能</a></p></li><li><p><a href="https://www.youtube.com/watch?v=9fqMCSaQ1Nk">YOUTUBE-overview-Stack-O-Bot</a></p></li><li><p><a href="https://www.bilibili.com/video/BV1P3411p7K1?spm_id_from=0.0.header_right.fav_list.click">Slay工作流程教程</a></p></li></ul><p><img src="/2022/03/22/2022-03-22/mrzh.jpeg" alt="明日之后"></p>]]></content>
+        <content type="html"><![CDATA[<p><img src="/2022/04/17/2022-04-17/kaer.jpeg" alt="DOTA2"></p><pre><code>四月学习汇总 </code></pre><a id="more"></a><h4 id="阅读"><a href="#阅读" class="headerlink" title="阅读"></a>阅读</h4><ul><li><a href="https://zhuanlan.zhihu.com/p/136753628">GAME101-现代计算机图形学入门 阅读笔记</a></li><li><a href="https://zhuanlan.zhihu.com/p/495389119?utm_source=wechat_session&utm_medium=social&utm_oi=1330492405716647936">GAME104-Game Engine引擎架构</a></li></ul><h4 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h4><ul><li>现代计算机图形学入门(已看1~3) <a href="https://www.bilibili.com/video/BV1X7411F744?p=5&spm_id_from=pageDriver">GAME101-闫令琪</a></li></ul><h4 id="成果"><a href="#成果" class="headerlink" title="成果"></a>成果</h4><p>将creator上的《幽灵射手》完全有purets UE4实现(未完成)</p><ul><li>参考 <a href="https://www.zhihu.com/zvideo/1466483392136712192">幽灵射手</a></li></ul><p><img src="/2022/04/17/2022-04-17/jxqy.jpeg" alt="剑侠情缘"></p>]]></content>
       
       
       
@@ -25,11 +25,70 @@
     
     
     <entry>
+      <title>encrypt-blog-test</title>
+      <link href="2022/04/06/encrypt-blog-test/"/>
+      <url>2022/04/06/encrypt-blog-test/</url>
+      
+        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="6933b26113191601875b066c8972ffeecfeb72babfc422b181564431ca24458c">90b802059200f1da98db072b6ecfd077fbee66be1d170f2e438d6c141a0c72a3397bd07809da0ed398f430b076401a40e3980b398393dce904e795021f1a8671</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> baby </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>learn_ue_march</title>
+      <link href="2022/03/22/2022-03-22/"/>
+      <url>2022/03/22/2022-03-22/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/2022/03/22/2022-03-22/wzry.jpeg" alt="王者荣耀"></p><pre><code>三月学习汇总 </code></pre><a id="more"></a><h4 id="阅读"><a href="#阅读" class="headerlink" title="阅读"></a>阅读</h4><ul><li><a href="https://zhuanlan.zhihu.com/p/477799165">渲染LightMap</a></li></ul><h4 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h4><ul><li><p><a href="https://www.bilibili.com/video/BV1D34y1b7uh/">Stack-O-Bot项目探索UE5功能</a></p></li><li><p><a href="https://www.youtube.com/watch?v=9fqMCSaQ1Nk">YOUTUBE-overview-Stack-O-Bot</a></p></li><li><p><a href="https://www.bilibili.com/video/BV1P3411p7K1?spm_id_from=0.0.header_right.fav_list.click">Slay工作流程教程</a></p></li></ul><p><img src="/2022/03/22/2022-03-22/mrzh.jpeg" alt="明日之后"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> UE </tag>
+            
+            <tag> Game </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>for-baby-01</title>
+      <link href="2022/03/02/for-baby-01/"/>
+      <url>2022/03/02/for-baby-01/</url>
+      
+        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="0a67b261b2ab77d0b55decc1b5b759919e3932e4fc8efa28ae76791d7451122e">49c3ba937b4f18b8ceae2dddcd2a56226543c23c4d0c10adf487f234a0679a0d65bdec6e16187489e24470fff956852c46968b5479322ade0d3d8b8c27f36e61731ff2cfd652cd978ebb00d4291d292d0978420959ba88f8c4793d29705e761d4493e01c51f53d472c08e844c4154c5560a51fe470cb37f975f3a8804e6f4d39bd1787281167126508dd904f97fba6af21103a203be40d9bcc3563365ef680056bfbb4cacd3912d39dfe7e4706330452610b7de7579c4fd21be6c0d8785480b8697d720890b491fb07d4f8aeced0a83aa727198b232596fc240c8726f29400b4f3aa7efda08362fb8f7641fa999002d8ae4b374a68b5d2ff9e232600e64a02034b49eac125b8ca17ee45bbd46be3a983ff7dbd3b63b52d64cdedbf75699413e2ffab860f120744f75b67cb647984382f34abd99288478070b8a5c1ee7b7634b9c44849fe3c83cd6a19b3aeafd9cbcc79bdfdd859c863a8399f3b1f5e0af743ae2cff7fea250f882841b31687c30ded37758ff9d33a82771d540899a7043f93d1e19b51953db1bc4c3e1bf5311eacfcbb78aaa9b59b2856df6d07d55e1b4aa5a844885bc04aaffc0967418fc372fd83cb06a54b020ced8df07633a03f77648e5919d74be5146f44f40091ab4097664c49b84a7fc7916f3c02ede0b6ac98318005951c1ec9a66128ac545ecd3f2e28f882b67adb8cc0af0995fc952e99113be011fd807602263536712addeef5b203dbfc6ba4ca66e18e373b75605f17e7e60ebdf59419e97bdf9aa4fbad5ee1a702683dac891d8fc10ee0427c61afd3f9a0fee6435ff436181aa575523974848077350cf6bef0db2880859f1039c98262e0bd3478ad9d84b9bf49447bb8fac07881f81020866a1694e7c5c9512746723998da9c613e5704139c5f0b18590c0fb291bfe7e530cb5ad2e413df6a3d497abd535e873282ccfd488eaf9e6096ca1120a121cfafcec6e7c9c018b36e1444b72d37f5efc3c8501437837230de757530740051dfba26b63fa3ab2aeaf8b665fc9c6896958c5e1125109b56c340b0135129ee39055e3dbd79ef7363e58c62ade9e78a44f0119e4dd4d38a942b30ad8b31b27dd996c1cb2f1f4a55f28c0970243b1a4a66cdc5a2e65be088e639433aa78eaff83157e9b29dbf72989e6b78bb23109dec093056046e35c7e7e746d79e51416172a9b8bb33483cedc563f28b1f984cd531a36dac4fa07bbea94050257ce010219966d817e381a754f01d2fafe3e195692ac111b333375d4df2be0c4284ef51b842d8f06b5db66f63d067b7ad10baad2be3547ed4897b396ee7fb75ee473bec0e8b08e249ea8492e1b521687d99a6945267bb5938c7f413d499fb65c1b62116a8e6d1991ea44166a58185073dc88f33717d404ac9702af73b0464d7296c66eac6d1fabfaa43669102e54373a3351fc2bcd365d043628afb8e799895db108e41de3047213cda05faf20d22981db029e60252ea14416130a615ab7144f9018fb52cc2ff3b091dfa8899a84bbc772c2f93400f018087a9373d1af47c1befbaa3eeac5c45a3470fe57b540d37e2db982fd49e5c02c60166669a36d7b91bd74ff61471c6503f19947b9ca3152191aa1e5a6858128b9f100d55a562e08f6f3eebdc0f380dd66f32d973669a7fb00841597bc3426f73497db14dc42b665474d44495b8cd9bde3da24f250fd84670034f702afab3b7ece5af160e1a39d85310eac90f6df6b8ca954962d0a9e559d385fd6ff3a21543181487ab5cf6515ae86f7b7e24b0a177c0c3596f5ab86281e5477bde15dbfefa202dae8e878399bd875f205025cfc2f1c84b7972d3a74d6cd9b0b66098813b23765b036f30eb8d68d91f3bedd5caaff09f417352ce46b36246f0f2ba2dca6a0ad5dbb0b86b4c6c539ad95448410d6f374b2beb6b5d6bcbf740822713ab52a2bed8c516a11d818028247fdabee5b578d07a5e2837c0ece4f7dde18d606aa907955cc5925a629ec7eaae06e54841a5946cbb73dfa042442a42c589269b6516640b9b92eae0f02a3f8aed926cce5bac11a17552fe5b9d74bbe6d0ad01c4ac1d06b2368d111e0a3cf81b7772e501858ec109ab53d30ece91525c84e0b22427ca4ba2043cb6f614634b78a42aa15365d631b8fe884957d505d70f287fedaa52efb35e9ecceacf7954c24ca3c6ec90f0cef907f312042fbfaf0ec3f7be145b4c5a46a38854a80b7fb6eb0358ee8e408b1ffd04c3f8adaa162fe9b09dfb7a368253345bee4d6fb6df0d3c90e384b3b5dca19a4badf9e4f4ccf53e96454cd9e3c2556e361e73e426055792a082343207a83225c9f0be7ba46b20b8016bd8b5bf1b9ad751cbd8ba9e7f3d69fc4446a6ced4e6590580b4a6f3057984939921a493684b3d77ffbd0a2085b9c129e2079c8b0f6c8aa03727888baa96bc52a0e455de601a3b8e435a171e99a0209fd9d39cb3933945e8c9cf6bb9aa509b5cb48ff244c6c0c6ffebb368341a255f25395c1245de51a566f56b86c554652eff4b9abf73871c0a41f96c</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> baby </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>learn_ue5</title>
       <link href="2022/02/28/learn-ue5/"/>
       <url>2022/02/28/learn-ue5/</url>
       
-        <content type="html"><![CDATA[<pre><code>learnning ue5 ![艾尔登法环](./aedfh.jpg)</code></pre><a id="more"></a><h4 id="碎碎"><a href="#碎碎" class="headerlink" title="碎碎"></a>碎碎</h4><p>这个月刚好是新年伊始，然后UE5_Preview版本也出了，还出了个demo，于是就打算搞起来了，说实话，知乎上讲UE5的文章越来越多了，但是还是喜欢大钊的博客。所以文末给了insideUE5的链接，能够受益匪浅的。</p><h3 id="初学者包"><a href="#初学者包" class="headerlink" title="初学者包"></a>初学者包</h3><p>整个包体其实不是很大，比原先预览版的大地图小很多。不过该有的内容都有</p><ul><li><a href="https://www.unrealengine.com/zh-CN/tech-blog/download-an-unreal-engine-5-early-access-game-starter-kit-featuring-a-small-robot">初学者包</a>  </li></ul><p><img src="/2022/02/28/learn-ue5/zhilang.jpg" alt="只狼"></p><h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h4><ul><li><a href="https://zhuanlan.zhihu.com/p/464013151">虚幻5渲染编程</a>  </li><li><a href="https://www.zhihu.com/column/insideue4">InsideUE5)</a>  </li></ul>]]></content>
+        <content type="html"><![CDATA[<p><img src="/2022/02/28/learn-ue5/aedfh.jpg" alt="艾尔登法环"></p><pre><code>learnning ue5 </code></pre><a id="more"></a><h4 id="碎碎"><a href="#碎碎" class="headerlink" title="碎碎"></a>碎碎</h4><p>这个月刚好是新年伊始，然后UE5_Preview版本也出了，还出了个demo，于是就打算搞起来了，说实话，知乎上讲UE5的文章越来越多了，但是还是喜欢大钊的博客。所以文末给了insideUE5的链接，能够受益匪浅的。</p><h3 id="初学者包"><a href="#初学者包" class="headerlink" title="初学者包"></a>初学者包</h3><p>整个包体其实不是很大，比原先预览版的大地图小很多。不过该有的内容都有</p><ul><li><a href="https://www.unrealengine.com/zh-CN/tech-blog/download-an-unreal-engine-5-early-access-game-starter-kit-featuring-a-small-robot">初学者包</a>  </li></ul><p><img src="/2022/02/28/learn-ue5/zhilang.jpg" alt="只狼"></p><h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h4><ul><li><a href="https://zhuanlan.zhihu.com/p/464013151">虚幻5渲染编程</a>  </li><li><a href="https://www.zhihu.com/column/insideue4">InsideUE5)</a>  </li></ul>]]></content>
       
       
       
