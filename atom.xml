@@ -6,7 +6,7 @@
   <link href="https://punk2074.github.io/atom.xml" rel="self"/>
   
   <link href="https://punk2074.github.io/"/>
-  <updated>2022-04-18T12:29:33.600Z</updated>
+  <updated>2022-05-05T03:22:14.228Z</updated>
   <id>https://punk2074.github.io/</id>
   
   <author>
@@ -17,17 +17,17 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>learn_ue_april</title>
-    <link href="https://punk2074.github.io/2022/04/17/2022-04-17/"/>
-    <id>https://punk2074.github.io/2022/04/17/2022-04-17/</id>
-    <published>2022-04-17T10:03:50.000Z</published>
-    <updated>2022-04-18T12:29:33.600Z</updated>
+    <title>learn_ue_may</title>
+    <link href="https://punk2074.github.io/2022/05/01/2022-05-01/"/>
+    <id>https://punk2074.github.io/2022/05/01/2022-05-01/</id>
+    <published>2022-05-01T00:00:00.000Z</published>
+    <updated>2022-05-05T03:22:14.228Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="/2022/04/17/2022-04-17/kaer.jpeg" alt="DOTA2"></p><pre><code>四月学习汇总 </code></pre><a id="more"></a><h4 id="阅读"><a href="#阅读" class="headerlink" title="阅读"></a>阅读</h4><ul><li><a href="https://zhuanlan.zhihu.com/p/136753628">GAME101-现代计算机图形学入门 阅读笔记</a></li><li><a href="https://zhuanlan.zhihu.com/p/495389119?utm_source=wechat_session&utm_medium=social&utm_oi=1330492405716647936">GAME104-Game Engine引擎架构</a></li></ul><h4 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h4><ul><li>现代计算机图形学入门(已看1~3) <a href="https://www.bilibili.com/video/BV1X7411F744?p=5&spm_id_from=pageDriver">GAME101-闫令琪</a></li></ul><h4 id="成果"><a href="#成果" class="headerlink" title="成果"></a>成果</h4><p>将creator上的《幽灵射手》完全有purets UE4实现(未完成)</p><ul><li>参考 <a href="https://www.zhihu.com/zvideo/1466483392136712192">幽灵射手</a></li></ul><p><img src="/2022/04/17/2022-04-17/jxqy.jpeg" alt="剑侠情缘"></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/2022/05/01/2022-05-01/huonv.webp" alt="DOTA2"></p><pre><code>五一休假期间的一些知识阅览 </code></pre><a id="more"></a><h3 id="3D-GAME-SHADER-FOR-BEGINNER"><a href="#3D-GAME-SHADER-FOR-BEGINNER" class="headerlink" title="3D-GAME-SHADER-FOR-BEGINNER"></a>3D-GAME-SHADER-FOR-BEGINNER</h3><ul><li><p><a href="https://github.com/lettier/3d-game-shaders-for-beginners">游戏渲染变成入门</a></p><ul><li><p><a href="https://github.com/lettier/3d-game-shaders-for-beginners">下载github</a></p></li><li><p>编译(<a href="https://github.com/lettier/3d-game-shaders-for-beginners/issues/22">mac下shader显示有问题</a>)</p><pre><code>clang++ -c src/main.cxx -o 3d-game-shaders-for-beginners.o -std=gnu++11 -g -O2 -I/Library/Developer/Panda3D/includeclang++ 3d-game-shaders-for-beginners.o -o 3d-game-shaders-for-beginners -L/Library/Developer/Panda3D/lib -lp3framework -lpanda -lpandafx -lpandaexpress -lpandaphysics -lp3dtoolconfig -lp3dtool -lpthreadDYLD_LIBRARY_PATH=/Library/Developer/Panda3D/lib ./3d-game-shaders-for-beginners</code></pre></li></ul></li></ul><h4 id="高质量实时渲染"><a href="#高质量实时渲染" class="headerlink" title="高质量实时渲染"></a>高质量实时渲染</h4><ul><li><a href="https://www.bilibili.com/video/BV1YK4y1T7yY?spm_id_from=333.788.top_right_bar_window_history.content.click">高质量实时渲染(未完成)</a></li></ul><p><img src="/2022/05/01/2022-05-01/aedfh.webp" alt="艾尔登法环"></p>]]></content>
     
     
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2022/04/17/2022-04-17/kaer.jpeg&quot; alt=&quot;DOTA2&quot;&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;四月学习汇总 &lt;/code&gt;&lt;/pre&gt;</summary>
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2022/05/01/2022-05-01/huonv.webp&quot; alt=&quot;DOTA2&quot;&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;五一休假期间的一些知识阅览 &lt;/code&gt;&lt;/pre&gt;</summary>
     
     
     
@@ -39,21 +39,24 @@
   </entry>
   
   <entry>
-    <title>encrypt-blog-test</title>
-    <link href="https://punk2074.github.io/2022/04/06/encrypt-blog-test/"/>
-    <id>https://punk2074.github.io/2022/04/06/encrypt-blog-test/</id>
-    <published>2022-04-06T09:36:47.000Z</published>
-    <updated>2022-04-06T09:39:32.116Z</updated>
+    <title>learn_ue_april</title>
+    <link href="https://punk2074.github.io/2022/04/17/2022-04-17/"/>
+    <id>https://punk2074.github.io/2022/04/17/2022-04-17/</id>
+    <published>2022-04-17T10:03:50.000Z</published>
+    <updated>2022-05-05T02:56:45.128Z</updated>
     
-    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="6933b26113191601875b066c8972ffeecfeb72babfc422b181564431ca24458c">90b802059200f1da98db072b6ecfd077fbee66be1d170f2e438d6c141a0c72a3397bd07809da0ed398f430b076401a40e3980b398393dce904e795021f1a8671</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-    
-    
-    <summary type="html">有东西被加密了, 请输入密码查看.</summary>
+    <content type="html"><![CDATA[<p><img src="/2022/04/17/2022-04-17/kaer.jpeg" alt="DOTA2"></p><pre><code>四月学习汇总 </code></pre><a id="more"></a><h4 id="阅读"><a href="#阅读" class="headerlink" title="阅读"></a>阅读</h4><ul><li><a href="https://zhuanlan.zhihu.com/p/136753628">GAME101-现代计算机图形学入门 阅读笔记</a></li><li><a href="https://zhuanlan.zhihu.com/p/495389119?utm_source=wechat_session&utm_medium=social&utm_oi=1330492405716647936">GAME104-Game Engine引擎架构</a></li></ul><h4 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h4><ul><li>现代计算机图形学入门 <a href="https://www.bilibili.com/video/BV1X7411F744?p=5&spm_id_from=pageDriver">GAME101-闫令琪</a></li></ul><h4 id="成果"><a href="#成果" class="headerlink" title="成果"></a>成果</h4><p>将creator上的《幽灵射手》完全有purets UE4实现(未完成)</p><ul><li>参考 <a href="https://www.zhihu.com/zvideo/1466483392136712192">幽灵射手</a></li></ul><p><img src="/2022/04/17/2022-04-17/jxqy.jpeg" alt="剑侠情缘"></p>]]></content>
     
     
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;/2022/04/17/2022-04-17/kaer.jpeg&quot; alt=&quot;DOTA2&quot;&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;四月学习汇总 &lt;/code&gt;&lt;/pre&gt;</summary>
     
     
-    <category term="baby" scheme="https://punk2074.github.io/tags/baby/"/>
+    
+    
+    <category term="UE" scheme="https://punk2074.github.io/tags/UE/"/>
+    
+    <category term="Game" scheme="https://punk2074.github.io/tags/Game/"/>
     
   </entry>
   
