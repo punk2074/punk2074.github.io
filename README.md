@@ -16,7 +16,7 @@
 #### 博客编写  
 1. git clone工程,切换至dev分支
 2. hexo new 'postName' 然后去编写对应的postName.md文件  
-3. hero clean& hexo g & hexo s查看并测试  
+3. hexo clean& hexo g & hexo s查看并测试  
 4. 提交git工程到dev分支，在用hexo d 命令部署博客
 
 #### 关于加密
