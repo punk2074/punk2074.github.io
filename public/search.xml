@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>六一儿童节快乐</title>
+      <link href="2022/06/01/2022-06-01/"/>
+      <url>2022/06/01/2022-06-01/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/2022/06/01/2022-06-01/ertong.png" alt="儿童节"></p><pre><code>六一儿童节快乐</code></pre><a id="more"></a><h3 id="Children’s-Day"><a href="#Children’s-Day" class="headerlink" title="Children’s Day"></a>Children’s Day</h3><p>又到了儿童节了，但是今年感觉不一样。对于自己身份的变化，对于家庭的责任。有了些许期待  </p><h3 id="gift"><a href="#gift" class="headerlink" title="gift"></a>gift</h3><p>说实话，没有准备礼物给天娇是最大的遗憾，今年最流行的是肯德基的可达鸭，可是因为自己的疏忽没有买到，最后只能去闲鱼找一个代工的，可是货还是没有送到。以后汲取教训，一定要在节日提前一个月就买好礼物，好好顾家<img src="/2022/06/01/2022-06-01/11.gif" alt="可达鸭">  </p><h3 id="for-self"><a href="#for-self" class="headerlink" title="for self"></a>for self</h3><ol><li>昨晚八点起，京东的618活动开启了，我还是没有忍住自己的手配置了一台台式机(总价9077) <ul><li>id-cooling 360水冷 ——388</li><li>振华750电源—————643</li><li>普力魔620q v2————-633</li><li>B660 迫击炮wifi+12700f—2879</li><li>金百达 16G*4 3600 ——–767</li><li>RTX3070 ——————–3777</li></ul></li><li>对于我自己而言，现在做python其实并不是一个能够持久的工作，总觉得自己缺少激情变成了混日子。但是又不得不面对生活生的困窘，事业上真的没有什么进取心及精力。我需要对自己做一次深入的反思然后下好定论(下一篇章反思)</li><li>游戏圈应该是回不去了，但是想做一些能够对孩子有意义的事情，这几年在家庭上亏欠太多。补是永远补不完的，得快速行动起来，时过境迁，要珍惜当下，把握好这个家庭。<br><img src="/2022/06/01/2022-06-01/22.webp" alt="儿童节快乐"> </li></ol>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> note </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>learn_ue_may</title>
+      <link href="2022/05/01/2022-05-01/"/>
+      <url>2022/05/01/2022-05-01/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/2022/05/01/2022-05-01/huonv.webp" alt="DOTA2"></p><pre><code>五一休假期间的一些知识阅览 </code></pre><a id="more"></a><h3 id="3D-GAME-SHADER-FOR-BEGINNER"><a href="#3D-GAME-SHADER-FOR-BEGINNER" class="headerlink" title="3D-GAME-SHADER-FOR-BEGINNER"></a>3D-GAME-SHADER-FOR-BEGINNER</h3><ul><li><p><a href="https://github.com/lettier/3d-game-shaders-for-beginners">游戏渲染变成入门</a></p><ul><li><p><a href="https://github.com/lettier/3d-game-shaders-for-beginners">下载github</a></p></li><li><p>编译(<a href="https://github.com/lettier/3d-game-shaders-for-beginners/issues/22">mac下shader显示有问题</a>)</p><pre><code>clang++ -c src/main.cxx -o 3d-game-shaders-for-beginners.o -std=gnu++11 -g -O2 -I/Library/Developer/Panda3D/includeclang++ 3d-game-shaders-for-beginners.o -o 3d-game-shaders-for-beginners -L/Library/Developer/Panda3D/lib -lp3framework -lpanda -lpandafx -lpandaexpress -lpandaphysics -lp3dtoolconfig -lp3dtool -lpthreadDYLD_LIBRARY_PATH=/Library/Developer/Panda3D/lib ./3d-game-shaders-for-beginners</code></pre></li></ul></li></ul><h4 id="高质量实时渲染"><a href="#高质量实时渲染" class="headerlink" title="高质量实时渲染"></a>高质量实时渲染</h4><ul><li><a href="https://www.bilibili.com/video/BV1YK4y1T7yY?spm_id_from=333.788.top_right_bar_window_history.content.click">高质量实时渲染(未完成)</a></li></ul><p><img src="/2022/05/01/2022-05-01/aedfh.webp" alt="艾尔登法环"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> UE </tag>
+            
+            <tag> Game </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>learn_ue_april</title>
+      <link href="2022/04/17/2022-04-17/"/>
+      <url>2022/04/17/2022-04-17/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/2022/04/17/2022-04-17/kaer.jpeg" alt="DOTA2"></p><pre><code>四月学习汇总 </code></pre><a id="more"></a><h4 id="阅读"><a href="#阅读" class="headerlink" title="阅读"></a>阅读</h4><ul><li><a href="https://zhuanlan.zhihu.com/p/136753628">GAME101-现代计算机图形学入门 阅读笔记</a></li><li><a href="https://zhuanlan.zhihu.com/p/495389119?utm_source=wechat_session&utm_medium=social&utm_oi=1330492405716647936">GAME104-Game Engine引擎架构</a></li></ul><h4 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h4><ul><li>现代计算机图形学入门 <a href="https://www.bilibili.com/video/BV1X7411F744?p=5&spm_id_from=pageDriver">GAME101-闫令琪</a></li></ul><h4 id="成果"><a href="#成果" class="headerlink" title="成果"></a>成果</h4><p>将creator上的《幽灵射手》完全有purets UE4实现(未完成)</p><ul><li>参考 <a href="https://www.zhihu.com/zvideo/1466483392136712192">幽灵射手</a></li></ul><p><img src="/2022/04/17/2022-04-17/jxqy.jpeg" alt="剑侠情缘"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> UE </tag>
+            
+            <tag> Game </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>learn_ue_march</title>
+      <link href="2022/03/22/2022-03-22/"/>
+      <url>2022/03/22/2022-03-22/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/2022/03/22/2022-03-22/wzry.jpeg" alt="王者荣耀"></p><pre><code>三月学习汇总 </code></pre><a id="more"></a><h4 id="阅读"><a href="#阅读" class="headerlink" title="阅读"></a>阅读</h4><ul><li><a href="https://zhuanlan.zhihu.com/p/477799165">渲染LightMap</a></li></ul><h4 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h4><ul><li><p><a href="https://www.bilibili.com/video/BV1D34y1b7uh/">Stack-O-Bot项目探索UE5功能</a></p></li><li><p><a href="https://www.youtube.com/watch?v=9fqMCSaQ1Nk">YOUTUBE-overview-Stack-O-Bot</a></p></li><li><p><a href="https://www.bilibili.com/video/BV1P3411p7K1?spm_id_from=0.0.header_right.fav_list.click">Slay工作流程教程</a></p></li></ul><p><img src="/2022/03/22/2022-03-22/mrzh.jpeg" alt="明日之后"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> UE </tag>
+            
+            <tag> Game </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>for-baby-01</title>
+      <link href="2022/03/02/for-baby-01/"/>
+      <url>2022/03/02/for-baby-01/</url>
+      
+        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="2fd4ede4fb9e089975bb8868e63aad510d25dad37010d5660770ae12e3647dbc">83f954acb8221978b936f70d8867caa479d068ebad6bc95a023c83a23d3fbd0e4111af190e02f08c0192056a1f5fbff7ec23f28213acd475f78c392da62f3b1668aafa60a6bd9e9a134f351a7b2e72126405ec66c2b2f9ac6c570784b408ca8474de0643cd2abc39b6990c8979937d3a372de43f41ada42f5ad6bf53c7e7be9a9743de5f05142b440ae6059ace21c4f5e3ae7b15fdb6007ec264016ac617af706e291b1174af4f2f8d8a91e4831a1884a8d91bf008b886601264b32133e093cfbadef8c94a2491f953c29fe8956fc76b610a7c95a47820aa598cf805ccec905ef9a5960ce2b90760e8206e097c709b1ea15fcd292d07698da3d65efdd6c7e4e213f83777b0a8fef2016da62362c770fa0d4719e9a39b1b8f85d598163b2b682f9a98d4f99dd12fd184b7e9c605231c1f21417e5bd6e694bef2b1b9f31c1787a1886e5436618e18ff7e912e3845e33dbd7849b0296eed07928943928900c5cd5566b8b60e5f7063ac5c92b72d4eecb4b78534527af9ba1d5bdff608d7a352776be9693967141ae9e3793d37055fd5f293f167b03d13305dc4cda4d6d2771bc1c911e0b1d74d5ba4575ce5e5f34eee2d163a0b7af3847d7c0243113506c76298f8db00cb1d1b1645509c0c7bb2e3f2aa41ff3a669c970c8c0334e2b9ac0e13b5835fd49979961d9dbdb4c9f9640316cbc32460acd2bce2d369cdbecebdc3a5fb74576dfc84b764bac9695bee64eda431a154079d2d64161a7aa175b422c2f709dd62957345697f24bcfbc94c34d05d285aa387578bcb61471919bcbb0f695ad8796236cdea79b898bdf29901856ebbf042b296e128d9c4819423a9482cf2ad8a5039cb5867543af7b6e7720abc8c58b1dcab9f9d3f30bc1604d8704dccdcc5c7a7233e93208856dc59bb986f658f07f47832f6416d7f16cedcf05236798975e2715a8069735c919c4a888abcb433c27573ddf100c0b113d47905cff6e9c815c0db9c3a3b2646f545dd1701782e6d454c96fa1a6c7c558d71f61ce710d3552550a57f9af4f13911e97432e50796be534f66898d59125a7a7a27e7e5697eea167bc2429786d2bc597801b0746b15bed7d0b2f41470be8c9bb9fdc459235465e3f0aa89490f9bc7ff399c1da34d1551a1396232382a59ceab3ce9284aee34cb0cff27eb6cfc1609fc1a928655031611156ed4812fd85177ea6b70bce236d9046bdec4fb898c1bf3d0081b6fb3ba3e27c422eb3dd1aab557b5cbfc2d5df4a788f39519c54a42b9f3a2326498d87d711e3b1a86b15d5696e01a6ebcc3c95a0bb144839984d743ec4d7051a70e2858c56ff96d2358efd7eb17ba5af46886da23593434936cdd5ec4943d1f2881673260060733027a9d659066fd9f0c485f7ad047b9f224ca6a2ac43de5adb57c32044dbea9a9e6af14f433232c59d7d789cdcbe227f4678bbc9337cc13893fe876e5b008dbfd2b3e3cfb9eb6d915ab810cf647f194272ee4f7da27c4cfe075c08e352e83246fb76a35b63dd472b16fd0f77f9747ddaa338d7edda3de60e12675c4e76d4556c0bfd781a53e13600a731841fe94614ebdc4ef1b382c6cf97e6cc10d21b88b7147dd1c0f6645c8e76fccb8f3356e39da07ab7d41eed2db2e3b56809a18957f9bcc9544ebab97e5dd2ce5d22a4568a4d669b2a7f174580ee69d8854c22c05f9a11eff6b59250a3faa1de45f0bf498b06e453c81fe3ae3efbbe93fecaef6d57156c2694d177504fcbb1e6260596089cf013e63bb3ae0214412236ce5cd83832fceeb21df4e8c0457b8c079c076716a0619a7f8fa6cc05fa3ee0b909e3bf99b4f2f97583762f8811a743237e4a45f02664c031cd32455ce867e49c5772b61a42552dbd994e59f8f5e8bd229ae64941f59fa98192a48602ea92119b074f6a63ca72d9397cf790f1f3c732d5af4ac1a2cab17ffc4ed8d3f66c40c592842138ebb15c930d3b366b8a7e36f21dfcf4a6b86444484f07a21b5599d0ce26ea685abccbbe5fe26515dd8b7be4032574a4f5cdc00d14034a3e9f0dfff6d30475fd7fae438ff96284f9cbf87d81f99b5064edd81a0cd98d883a1a5c5c8eeb61f3b960ba40864d812ce579ba98346797e4cde4412f3df3087c64957b21ac1cdde69cee135b7cbafcac4df96e6c8032c0b1625bd2aa74ad3aeef5aa78e8d0c02b4639a9a7d2385c1664555465fd6d84539fc18e135529e4c26088e6219a2829b9d876e52b070891fa29c1bc329cb8e350df3cf2270ab49110ccdef27714808196ded60e1c31eb7b2c2745198ad1cd8a1a04c83a979c11ef79fe9682b728c1f3bc88b13114604379a9fede5d6f4f8fa2168d1f6f1fb80e34aa37946483630421bf65adaf1d17a34fe37729ad1bf82407cde567ba093ae910372a6602c20019e7eac2e121199228e0209</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">您好, 这里需要密码.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> baby </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>learn_ue5</title>
+      <link href="2022/02/28/learn-ue5/"/>
+      <url>2022/02/28/learn-ue5/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/2022/02/28/learn-ue5/aedfh.jpg" alt="艾尔登法环"></p><pre><code>learnning ue5 </code></pre><a id="more"></a><h4 id="碎碎"><a href="#碎碎" class="headerlink" title="碎碎"></a>碎碎</h4><p>这个月刚好是新年伊始，然后UE5_Preview版本也出了，还出了个demo，于是就打算搞起来了，说实话，知乎上讲UE5的文章越来越多了，但是还是喜欢大钊的博客。所以文末给了insideUE5的链接，能够受益匪浅的。</p><h3 id="初学者包"><a href="#初学者包" class="headerlink" title="初学者包"></a>初学者包</h3><p>整个包体其实不是很大，比原先预览版的大地图小很多。不过该有的内容都有</p><ul><li><a href="https://www.unrealengine.com/zh-CN/tech-blog/download-an-unreal-engine-5-early-access-game-starter-kit-featuring-a-small-robot">初学者包</a>  </li></ul><p><img src="/2022/02/28/learn-ue5/zhilang.jpg" alt="只狼"></p><h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h4><ul><li><a href="https://zhuanlan.zhihu.com/p/464013151">虚幻5渲染编程</a>  </li><li><a href="https://www.zhihu.com/column/insideue4">InsideUE5)</a>  </li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> UE </tag>
+            
+            <tag> Game </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Learnning_ue</title>
+      <link href="2022/01/15/Learnning-ue/"/>
+      <url>2022/01/15/Learnning-ue/</url>
+      
+        <content type="html"><![CDATA[<pre><code>learnning ue </code></pre><a id="more"></a><h4 id="UE"><a href="#UE" class="headerlink" title="UE"></a>UE</h4><p>重拾UE学习。视频就不看了，以前记得的内容也都忘记了，现在就重新学习吧，也是从一个简单的游戏开始，</p><h3 id="puerts"><a href="#puerts" class="headerlink" title="puerts"></a>puerts</h3><p>最近用的是ts(js),索性这回写游戏就用ts吧。于是乎就发现了腾讯大佬开源的puerts。这不，第一个游戏就出来了。回头再补充相关的说明文档吧，群也加了，就是要好好学学。</p><h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h4><ul><li><a href="https://github.com/Tencent/puerts">puerts</a>  </li><li><a href="https://github.com/chexiongsheng/puerts_fps_demo">第一个UE案例(FPS)</a>  </li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> UE </tag>
+            
+            <tag> Game </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>2022 plan</title>
+      <link href="2022/01/03/2022-plan/"/>
+      <url>2022/01/03/2022-plan/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/2022/01/03/2022-plan/sed.jpeg" alt="塞尔达传说-荒野之息"></p><pre><code>2022年展望</code></pre><a id="more"></a><h3 id="计划"><a href="#计划" class="headerlink" title="计划"></a>计划</h3><p>新的一年新的征程，但愿今年疫情能有有所控制。2022，我畅想了好多、好久，也不知道该把哪个事情安排到计划里面，思考的越久，越觉得自己需要做的事情太多了</p><ul><li><h4 id="读书"><a href="#读书" class="headerlink" title="读书"></a>读书</h4><ul><li>关于读书，有太多的书需要我去读了，技术类、管理类、生活类、家庭类、包括育儿类。不过还是继续立flag吧，小米阅读器争取每天随身携带。</li><li>每天的极客时间是一个好的习惯，但是尽量减少盯手机的时间。</li><li>平常上班多泡在技术论坛上，少刷一些知乎、微博、朋友圈。</li></ul></li><li><h4 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h4><ul><li>视频目前有一个想法，打算自己拍摄视频记录一些值得记录的时刻。所以相应的需要去b站学习一些摄影和剪辑技巧</li><li>主要还是去b站学习UE的视频，加深自己对行业的嗅觉。对于技术类的影视可以1.25倍数快速看。</li></ul></li><li><h4 id="音乐及影视"><a href="#音乐及影视" class="headerlink" title="音乐及影视"></a>音乐及影视</h4><ul><li>这方面其实没有什么计划安排，只需要涉猎一点点就好。</li></ul></li><li><h4 id="游戏"><a href="#游戏" class="headerlink" title="游戏"></a>游戏</h4><ul><li>说到游戏，去年开始其实在游戏上也已经减少了游玩时间，不过一些大作还是可以稍微去玩，手机的游戏其实没必要去玩太多，大多数还达不到3A级别，就算国民游戏&lt;王者荣耀&gt;，也是没必要玩了。已经过了那个年龄了。</li></ul></li><li><h4 id="电子产品"><a href="#电子产品" class="headerlink" title="电子产品"></a>电子产品</h4><ul><li>今年还是会有1~2W的支出在电子产品上，更新显卡、手机、大疆poket2、戴森净化机等吧。</li></ul></li><li><h4 id="旅行"><a href="#旅行" class="headerlink" title="旅行"></a>旅行</h4><ul><li>暂未定义，可能去趟环球影城、哈尔滨、广州、上海迪士尼</li></ul></li><li><h4 id="学习"><a href="#学习" class="headerlink" title="学习"></a>学习</h4><ul><li>坚持每天刷一题leetcode</li><li>坚持每周更新博客、github</li><li>坚持每月读一本书</li><li>每个季度能够产出优质的UE文章(前期可以以学习为主)</li></ul></li></ul><h3 id="工作计划"><a href="#工作计划" class="headerlink" title="工作计划"></a>工作计划</h3><p>没什么意外的话qt将会上市，wt项目也会面向市场，所以今年工作计划更多的是打磨wt项目至成功上线，而个人学习上应该是全面投入ue了。一切算是计划之内的事情。</p><h3 id="投资支出"><a href="#投资支出" class="headerlink" title="投资支出"></a>投资支出</h3><p>今年不打算投资支出了，虽然看多中国，但是从市场上的经济评估来说，可能金融危机会开始显现。对于如果度过金融危机，那就是能囤多少粮食就囤吧。目前就是等待币圈资金回笼，然后将房贷全部还上，手里囤rmb，等待一个时机再做投资，大概率上今年没有一个好的投资信号。</p><h3 id="生活情感"><a href="#生活情感" class="headerlink" title="生活情感"></a>生活情感</h3><p>准备要baby。 </p><p><u>2022，注定是变革一年，市场风云变幻、疫情肆虐、qt等待上市，今年将是一个充满着挑战、机遇及蜕变的一年，等待时机吧！现在要做的就是多充实自己，多让自己更快拥抱变化。<strong><em>2022，我们一起改变</em></strong></u></p><p><img src="/2022/01/03/2022-plan/xyj.jpeg" alt="轩辕剑"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> note </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>2021 annual summary</title>
+      <link href="2021/12/29/2021-annual-summary/"/>
+      <url>2021/12/29/2021-annual-summary/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/2021/12/29/2021-annual-summary/ne.jpeg" alt="尼尔纪元"></p><pre><code>2021年年终总结</code></pre><a id="more"></a><h3 id="个人知识概述"><a href="#个人知识概述" class="headerlink" title="个人知识概述"></a>个人知识概述</h3><p>今年在技术积累上偏少，太多的时间点都花在了投资上，而碎片的时间都拿来看娱乐或者影视了。</p><ul><li><h4 id="书籍-微信读书，囊括情绪、游戏、金融、备孕"><a href="#书籍-微信读书，囊括情绪、游戏、金融、备孕" class="headerlink" title="书籍(微信读书，囊括情绪、游戏、金融、备孕)"></a>书籍(微信读书，囊括情绪、游戏、金融、备孕)</h4><ul><li>非暴力性沟通</li><li>遥远的救世主</li><li>岩田先生</li><li>沸腾新十年</li><li>简明世界史</li><li>腾讯游戏开发精粹</li><li>穷查理宝典</li><li>趋势交易</li><li>投资最重要的事</li><li>货币金融学</li><li>原则</li><li>阶层跃迁</li><li>轻松备孕、助孕</li><li>妇产科医生说备孕</li></ul></li><li><h4 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h4><ul><li>香帅的北大金融课程(得到app)</li><li>UE4官网视频教学(240课时)</li><li>UE4 Moba分布式网络游戏教程(AbountCG)</li><li>UE4 FPS in C++ (UDemy)</li></ul></li><li><h4 id="音乐-节选网易云、qq音乐"><a href="#音乐-节选网易云、qq音乐" class="headerlink" title="音乐(节选网易云、qq音乐)"></a>音乐(节选网易云、qq音乐)</h4><ul><li>中国新说唱(攀登、飘向远方、差不多姑娘)</li><li>艺人：邓紫棋、李荣浩、毛不易</li></ul></li><li><h4 id="影视"><a href="#影视" class="headerlink" title="影视"></a>影视</h4><ul><li>鸡毛飞上天</li><li>你是我的荣耀</li><li>觉醒年代</li><li>漫威复联四、蜘蛛侠；DC正联联盟、神奇女侠</li><li>哪吒、唐人街探案</li><li>抖音影评：梅林传奇、黄石、梅普露(日本游戏动画)</li><li>漫画：海贼王、一拳超人</li></ul></li><li><h4 id="游戏"><a href="#游戏" class="headerlink" title="游戏"></a>游戏</h4><ul><li>仙剑奇侠传七</li><li>古剑奇谭三</li><li>轩辕剑三</li><li>DOTA2(TI10)</li><li>CS GO</li><li>手游：王者荣耀、和平精英、英雄联盟</li></ul></li><li><h4 id="电子产品"><a href="#电子产品" class="headerlink" title="电子产品"></a>电子产品</h4><ul><li>小米多看阅读pro</li><li>iphone 13</li><li>razer 头戴式蓝牙耳机</li></ul></li><li><h4 id="旅行"><a href="#旅行" class="headerlink" title="旅行"></a>旅行</h4><ul><li>武汉出差</li><li>南宁三街两巷</li></ul></li></ul><h3 id="工作总结"><a href="#工作总结" class="headerlink" title="工作总结"></a>工作总结</h3><p>今年是来qt的第一年，算是跨行业的一个开端，工作上其实没有什么突破，更多的算是基础入门，也没有特别优秀的地方</p><ul><li><h4 id="Zion团队"><a href="#Zion团队" class="headerlink" title="Zion团队"></a>Zion团队</h4><ul><li>工作内容：window network管理；虚机cpu、内存、双虚机切换管理；与前端交服务编写；</li><li>编程语言：PowerShell、C++、TypeScript、NodeJs</li><li>技能：electron、grpc、win32 api、protobuff、反编译vmconnect代码并找到增强模式失败原因</li></ul></li><li><h4 id="WatchTower团队"><a href="#WatchTower团队" class="headerlink" title="WatchTower团队"></a>WatchTower团队</h4><ul><li>工作内容：流量获取、重放；数据埋点、账号溯源、web后台前端</li><li>编程语言：python、lua、TpyeScript</li><li>技能：openresty、chrome extensions、selenium、chrome dev tools、qt-ui-design</li></ul></li><li><h4 id="个人业绩"><a href="#个人业绩" class="headerlink" title="个人业绩"></a>个人业绩</h4><ul><li>六边形3D地形及自动寻路</li><li>UE4、cocos creator入门</li><li>OpenGL梳理</li></ul></li></ul><h3 id="投资支出"><a href="#投资支出" class="headerlink" title="投资支出"></a>投资支出</h3><p>今年在币圈投资的金额占比过大，已经严重影响到生活开支；对于生活在情感上缺乏关爱，争吵不断，家庭出现了危机；股票上今年全部靠股转债打新。</p><ul><li>薪酬 30~50w(薪资涨幅10%)</li><li>币圈 50~100w(回报率200%[未交易])</li><li>私募 10W以内(回报率1000%[未交易])</li><li>股市 1w以内(回报率90%)</li><li>黄金 2W(亏损10%)</li><li>旅行电子产品周边 2w以内</li></ul><h3 id="生活情感"><a href="#生活情感" class="headerlink" title="生活情感"></a>生活情感</h3><p>今年过的算是比较糟糕的。疫情打乱了一些计划，比如结婚一周年、比如想去哈尔滨、成都；资金的管理混乱，资金短缺造成了生活上的烦恼，情绪上的失控。比如去青海湖；对于情感方面，因为个人的倔强、对生活的不认真、言语上的不沟通。导致家庭间产生了巨大隔阂与矛盾。事情太多也关乎隐私就不细谈，希望能够加以改正，直面问题。</p><ul><li><h4 id="美食"><a href="#美食" class="headerlink" title="美食"></a>美食</h4><ul><li>很久很久以前(烤羊肉串)</li><li>潮汕牛肉火锅</li><li>山姆榴莲千层、青椰、牛羊排等</li><li>里建卷筒粉  </li></ul></li></ul><p><u>回望2021，国外疫情肆虐，国内安全稳步。疫情改变了许多，消极的、积极的、机遇、环境、态度、内卷等，这些词语构成了我的2021。有过遗憾、徘徊、迷茫。但也确定、肯定及坚信，不论怎么样的时代怎么样的环境，不忘初心，沉着，听取意见。2021，是我莽撞的一年，也是我最应该牢记、反思、端正态度的一年。展望2022，我需要带上我2021所有的反思、改正、遗憾以及敬畏。去端正态度，好好的规划好2022人生。让生活回归平静平凡，健康、积极、乐观，拥有一个令人向往及留恋的2022。要给自己2021年的评价就是：<strong><em>迷途知返，心怀感恩</em></strong></u></p><p><img src="/2021/12/29/2021-annual-summary/ff.jpeg" alt="最终幻想"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> note </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>inside_creator_3_astart</title>
+      <link href="2021/02/28/inside-creator-3-astart/"/>
+      <url>2021/02/28/inside-creator-3-astart/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/2021/02/28/inside-creator-3-astart/1.jpg" alt="cover"></p><pre><code>cocos creator3.x 之六边形A* 算法</code></pre><a id="more"></a><h4 id="导航"><a href="#导航" class="headerlink" title="导航"></a>导航</h4><p>地图已经制作完成的话，就需要导航，让角色走到指定位置，并且自动避开障碍物.从而产生了寻路算法，市面上很多算法,A<em>、D</em>、导航网格等，但万变不离其宗，都是要找出最近的路。我只拿最简单的A*算法来做</p><h4 id="A-算法"><a href="#A-算法" class="headerlink" title="A*算法"></a>A*算法</h4><ol><li>将起始节点加入open列表中</li><li>判断open节点，空则搜索失败，如果open列表存在目标节点，则搜索成功</li><li>根据F = G + H从open列表中找出F最小的节点作为当前节点，并将其加入close列表中</li><li>计算当前节点相邻的六个节点(排除障碍物)，组成一组子节点，对每个子节点做判断<ul><li>如果该节点在close列表中，丢弃。</li><li>如果该节点在open列表中，检查当前节点的F值是否更小，如果更小则更新F值，并将父节点设置为当前节点</li><li>如果该节点不在open列表中，则将其假如open列表，并计算F值，设置其父节点为当前节点</li></ul></li><li>重复2步骤  </li></ol><h4 id="效果展示"><a href="#效果展示" class="headerlink" title="效果展示"></a>效果展示</h4><p><img src="/2021/02/28/inside-creator-3-astart/2.jpg" alt="效果图"> </p><h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h4><ul><li><a href="https://zhuanlan.zhihu.com/p/112849816">六边形A*算法</a></li><li><a href="https://www.redblobgames.com/pathfinding/a-star/introduction.html">A*算法简述(英文)</a></li><li><a href="https://www.cnblogs.com/iwiniwin/p/10793654.html">A*算法简述(中文)</a>  </li><li><a href="https://github.com/tim-punk/inside_creator/tree/master/3_find_astar">github示例</a></li></ul>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>inside_creator_2_hexagon_terrain</title>
+      <link href="2021/02/20/inside_creator_2_hexagon_terrain/"/>
+      <url>2021/02/20/inside_creator_2_hexagon_terrain/</url>
+      
+        <content type="html"><![CDATA[<p><img src="/2021/02/20/inside_creator_2_hexagon_terrain/3.jpg" alt="cover"></p><pre><code>cocos creator3.x 之六边形地形</code></pre><a id="more"></a><h4 id="地形网格"><a href="#地形网格" class="headerlink" title="地形网格"></a>地形网格</h4><p>游戏，少不了地图，而地图就需要有坐标，有正方形、六边形等，这里采用六边形是因为任何对于计算六边形到六边形的距离都是一致的，而正方形一边少，二会出现次相邻情况.如下图，但是其实也各有优劣，视项目情况而定吧。<br><img src="/2021/02/20/inside_creator_2_hexagon_terrain/1.jpg" alt="地形距离比较">  </p><h4 id="地形制作"><a href="#地形制作" class="headerlink" title="地形制作"></a>地形制作</h4><ul><li>制作六边形地形，为了便于调试，制作两个quad地形</li><li>地图设定及相关代码处理</li><li>使用射线检测来添加触摸地形快操作  </li></ul><h4 id="效果展示"><a href="#效果展示" class="headerlink" title="效果展示"></a>效果展示</h4><p><img src="/2021/02/20/inside_creator_2_hexagon_terrain/2.jpg" alt="效果图"> </p><h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h4><ul><li><a href="https://docs.cocos.com/creator/3.0/manual/zh/editor/terrain/">地形Terrain</a></li><li><a href="https://indienova.com/indie-game-development/hex-grids-reference/">六边形设计(中文)</a></li><li><a href="https://www.redblobgames.com/grids/hexagons/">六边形(原版英文)</a>  </li><li><a href="https://docs.cocos.com/creator/3.0/manual/zh/physics/physics-raycast.html?h=screenpointtoray">射线检测</a>  </li><li><a href="https://github.com/tim-punk/inside_creator/tree/master/2_hexagon_terrain">github示例</a></li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Game </tag>
+            
+            <tag> Creator </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>inside_creator_1_plugin</title>
+      <link href="2021/02/15/inside_creator_1_plugin/"/>
+      <url>2021/02/15/inside_creator_1_plugin/</url>
+      
+        <content type="html"><![CDATA[<pre><code>cocos creator3.x 之插件编写</code></pre><a id="more"></a><h4 id="关于插件"><a href="#关于插件" class="headerlink" title="关于插件"></a>关于插件</h4><p>一般对于游戏开发者，大部分都会与excel打交道，策划给角色或者怪物配置的血量、等级、技能等。关卡信息、奖励道具等。还有美术给的动作名称、技能帧等，包括一些活动配置等游戏中用得到并且在上线前频繁修改的数据，对于这些数据而言，有一个规范、容易编辑、更新的工具对整个项目来说是事半功倍的效果。特此，插件就派上场了。</p><h4 id="插件制作"><a href="#插件制作" class="headerlink" title="插件制作"></a>插件制作</h4><p>插件的制作参考以下链接  </p><ul><li><a href="https://mp.weixin.qq.com/s?__biz=MjM5ODAxNTM2NA==&mid=2659664592&idx=1&sn=9793c8f33cdf2c73b4cbaa9af9944d45&chksm=bda2da3b8ad5532d18296c170e3953f66c0e85ee715f3d75f2e1cafe2219a033cd44c9257aac&scene=178&cur_album_id=1761139408994385920#rd">深入 Cocos Creator 3.0 的插件扩展系统</a>  </li><li><a href="https://docs.cocos.com/creator/3.0/manual/zh/editor/extension/readme.html">扩展编辑器</a>  </li></ul><h4 id="插件使用"><a href="#插件使用" class="headerlink" title="插件使用"></a>插件使用</h4><ul><li>目录结构<pre><code>rootdir|--client  |--extensions  |--assets    |--scripts      |--db           #最终生成.ts脚本配置的文件夹|--design  |--excel    |--role.xls       #配表文件    |--monster.xls    #配表文件  |--tool             #导表等工具</code></pre></li><li>策划安装规范定义好excel表</li><li>通过Creator中Developer-&gt;导出即可<br>  1.插件会调用<code>rootdir\design\tool\export2ts.bat</code>(mac下sh)执行python脚本<br>  2.python会将excel文件夹下xls文件导出至<code>\rootdir\client\assets\scripts\db\</code>文件夹中</li><li>python需要安装相关node插件</li><li>相关说明放在<code>tool/readme.md</code>文件内</li><li><a href="https://github.com/tim-punk/inside_creator/tree/master/1_plugin">github示例</a></li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Game </tag>
+            
+            <tag> Creator </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="2021/01/01/hello-world/"/>
+      <url>2021/01/01/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="http://zespia.tw/hexo">Hexo</a>! This is your very first post. Check <a href="http://zespia.tw/hexo/docs">documentation</a> to learn how to use.</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
