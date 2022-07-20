@@ -8,6 +8,7 @@
     "deploy": "hexo deploy",
     "server": "hexo server",
     "start": "hexo server",
+    "post": "hexo new 2022-07-01",
     "dev": "hexo clean && hexo g && hexo s --debug"
   },
   "hexo": {
