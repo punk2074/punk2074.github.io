@@ -3,35 +3,37 @@
 cocos creator3.x 之六边形A* 算法
 
 
+
 导航地图已经制作完成的话，就需要导航，让角色走到指定位置，并且自动避开障碍物.从而产生了寻路算法，市面上很多算法,A、D、导航网格等，但万变不离其宗，都是要找出最近的路。我只拿最简单的A*算法来做
 A*算法
 将起始节点加入open列表中
 判断open节点，空则搜索失败，如果open列表存在目标节点，则搜索成功
-根据F = G + H从open列表中找出F最小的节点作为当前节点，并将其加入close列表中
+根据F &amp;#x3D; G + H从open列表中找出F最小的节点作为当前节点，并将其加入close列表中
 计算当前节点相邻的六个节点(排除障碍物)，组成一组子节点，对每个子节点做判断
 如果该节点在close列表中，丢弃。
 如果该节点在open列表中，检查当前节点的F值是否更小，如果更小则更新F值，并将父节点设置为当前节点
-如果该节点不在open列表中，.."><!-- hexo injector head_end start -->
+如果该节点不在op.."><!-- hexo injector head_end start -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css">
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-math@4.0.0/dist/style.css">
-<!-- hexo injector head_end end --><meta name="generator" content="Hexo 5.2.0"><link rel="alternate" href="/atom.xml" title="punk2074's blog" type="application/atom+xml">
+<!-- hexo injector head_end end --><meta name="generator" content="Hexo 6.2.0"><link rel="alternate" href="/atom.xml" title="punk2074's blog" type="application/atom+xml">
 </head><body class="is-flex is-flex-direction-column"><header class="header-widget is-flex-shrink-0 is-hidden-mobile"><div class="container is-fullhd is-flex is-justify-content-space-between is-align-items-center is-full-height"><section class="is-hidden-mobile is-flex-shrink-0"><h2><a href="/">punk2074's blog</a></h2></section><h3 class="is-hidden-mobile is-family-serif is-full-height is-flex is-align-items-center is-flex-shrink-0"><div class="is-full-height" id="postTopic"><p class="is-full-height is-flex-shrink-0 is-flex is-align-items-center is-justify-content-center">inside_creator_3_astart</p><p class="is-full-height is-flex-shrink-0 is-flex is-align-items-center is-justify-content-center">点击返回顶部</p></div></h3><aside class="is-flex-shrink-0"><h3 class="is-inline-block"><a href="/">首页</a></h3><h3 class="is-inline-block"><a href="/about">关于</a></h3><h3 class="is-inline-block"><a href="/archives">归档</a></h3></aside></div></header><header class="is-flex header-widget is-flex-shrink-0 is-align-items-center is-justify-content-center is-hidden-tablet"><h3 class="is-inline-block"><a href="/">首页</a></h3><h3 class="is-inline-block"><a href="/about">关于</a></h3><h3 class="is-inline-block"><a href="/archives">归档</a></h3></header><main><main class="container is-max-widescreen content section post-page pt-4 px-4"><div class="columns is-flex-desktop is-justify-content-center is-flex-direction-row-reverse"><div class="column is-3 is-hidden-mobile"><ol class="toc"><li class="toc-item toc-level-4"><a class="toc-link" href="#%E5%AF%BC%E8%88%AA"><span class="toc-text">导航</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#A-%E7%AE%97%E6%B3%95"><span class="toc-text">A*算法</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E6%95%88%E6%9E%9C%E5%B1%95%E7%A4%BA"><span class="toc-text">效果展示</span></a></li><li class="toc-item toc-level-4"><a class="toc-link" href="#%E5%8F%82%E8%80%83"><span class="toc-text">参考</span></a></li></ol></div><div class="column is-9"><header class="my-4"></header><h1 class="mt-0 mb-1 is-family-serif" id="postTitle">inside_creator_3_astart</h1><time class="has-text-grey" datetime="2021-02-28T02:07:47.000Z">2021-02-28</time><article class="mt-2 post-content"><p><img src="/2021/02/28/inside-creator-3-astart/1.jpg" alt="cover"></p>
-<pre><code>cocos creator3.x 之六边形A* 算法</code></pre>
-<a id="more"></a>
+<pre><code>cocos creator3.x 之六边形A* 算法
+</code></pre>
+<span id="more"></span>
 
 <h4 id="导航"><a href="#导航" class="headerlink" title="导航"></a>导航</h4><p>地图已经制作完成的话，就需要导航，让角色走到指定位置，并且自动避开障碍物.从而产生了寻路算法，市面上很多算法,A<em>、D</em>、导航网格等，但万变不离其宗，都是要找出最近的路。我只拿最简单的A*算法来做</p>
 <h4 id="A-算法"><a href="#A-算法" class="headerlink" title="A*算法"></a>A*算法</h4><ol>
 <li>将起始节点加入open列表中</li>
 <li>判断open节点，空则搜索失败，如果open列表存在目标节点，则搜索成功</li>
-<li>根据F = G + H从open列表中找出F最小的节点作为当前节点，并将其加入close列表中</li>
+<li>根据F &#x3D; G + H从open列表中找出F最小的节点作为当前节点，并将其加入close列表中</li>
 <li>计算当前节点相邻的六个节点(排除障碍物)，组成一组子节点，对每个子节点做判断<ul>
 <li>如果该节点在close列表中，丢弃。</li>
 <li>如果该节点在open列表中，检查当前节点的F值是否更小，如果更小则更新F值，并将父节点设置为当前节点</li>
 <li>如果该节点不在open列表中，则将其假如open列表，并计算F值，设置其父节点为当前节点</li>
 </ul>
 </li>
-<li>重复2步骤  </li>
+<li>重复2步骤</li>
 </ol>
 <h4 id="效果展示"><a href="#效果展示" class="headerlink" title="效果展示"></a>效果展示</h4><p><img src="/2021/02/28/inside-creator-3-astart/2.jpg" alt="效果图"> </p>
 <h4 id="参考"><a href="#参考" class="headerlink" title="参考"></a>参考</h4><ul>
